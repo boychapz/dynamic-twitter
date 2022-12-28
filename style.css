@@ -1,0 +1,124 @@
+
+h4{
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+  
+  .header-container{
+    color: rgb(47, 47, 245);
+    
+  }
+  #header-name{
+    margin-left: 100px;
+    margin-top: 21px;
+
+  }
+   .tweet-count{
+    color: rgb(145, 143, 143);
+    font-size: 12px;
+    margin: 0;
+    margin-left: 100px;
+    margin-bottom: 5px;
+    
+  }
+  .displayName{
+     margin-left: 19px;
+     margin-bottom: 0;
+  }
+
+
+  #main-container{
+    margin: 0 auto;
+    width: 50%;
+    border: 1px solid grey;
+    align-items: center;
+  }
+  .image-style{
+    width: fit-content;
+    background-size: contain;
+    max-width: 100%;
+    height: auto;
+  }
+  .profile-image{
+    width: 150px;
+    margin-left: 15px;
+    margin-top: -90px;
+    border-radius: 50%;
+    border: 5px solid white;
+  }
+  .follower-section{
+    display: flex;
+    margin-left: 19px;
+  }
+  .tab-section{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-weight: 700;
+    color: rgb(59, 59, 59);
+
+  }
+  .tweet-image{
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 15px;
+  }
+  .tweet-position{
+    padding-left: 110px;
+    margin-top: -100px;
+
+  }
+  .tweet-activity{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -80px;
+  }
+  #dot-button{
+    float: right;
+    border: none;
+    margin-right: 15px;
+    background-color: white;
+    font-size: 24px;
+    font-weight: 550;
+}
+.tweet-content{
+    margin-top:5px;
+    margin-bottom:6px;
+}
+.active-tab{
+    color: rgb(66, 157, 241);
+}
+.active-tab:hover{
+    color: rgb(66, 157, 241);
+}
+#following-count{
+    margin-right: 20px;
+}
+#joined{
+    margin-left: 18px;
+    margin-bottom: 10px;
+}
+  #username{
+    margin-left: 18px;
+    margin-top: 0;
+  }
+  #follow-btn{
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+    height: 40px;
+    width: 100px;
+    border-radius: 25px;
+    font-weight: 700;
+    background-color: rgb(66, 157, 241);
+    color:white;
+    border: 0;
+
+  }
+  #back-arrow{
+    margin-bottom: -45px;
+    margin-left:20px;
+    font-size: 20px;
+    color:rgb(66, 157, 241);
+  }
