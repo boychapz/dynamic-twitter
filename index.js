@@ -53,7 +53,7 @@ let params = new URLSearchParams(window.location.search);
 let getUser= params.get('user');
 console.log(getUser);
 console.log(window.location.search)
-let selectedUser= users[getUser];
+let selectedUser= users[getUser] || users.user1;
 console.log(selectedUser);
 
 var headerContainer = document.getElementById('header-container');
