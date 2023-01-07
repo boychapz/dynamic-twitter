@@ -2,7 +2,6 @@
 
 # URL
 
-https://boychapz.github.io/dynamic-twitter/
 https://boychapz.github.io/dynamic-twitter/?user=user1
 https://boychapz.github.io/dynamic-twitter/?user=user2
 
